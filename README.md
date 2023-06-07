@@ -17,10 +17,7 @@ Print the result.
 ### Step 6: 
 End the program.
 ## PROGRAM:
-~~~
-Name   : H.Syed Abdul Wasih
-Reg No : 212221240057
-~~~
+
 ~~~
 import java.util.Scanner;
 public class Main
